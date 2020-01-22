@@ -1,6 +1,6 @@
 {
   "name": "@aacassandra/client-xlsx2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse config",
   "main": "dist/index.js",
   "publishConfig": {
