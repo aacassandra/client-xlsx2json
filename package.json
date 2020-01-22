@@ -1,0 +1,38 @@
+{
+  "name": "@aacassandra/client-xlsx2json",
+  "version": "1.0.3",
+  "description": "Parse config",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacassandra/client-xlsx2json.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": {
+    "name": "Alauddin Afif Cassandra",
+    "email": "alauddinafifcassandra@programmer.net",
+    "url": "https://aacassandra.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aacassandra/client-xlsx2json/issues"
+  },
+  "homepage": "https://github.com/aacassandra/client-xlsx2json#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "xlsx": "^0.15.4"
+  }
+}
